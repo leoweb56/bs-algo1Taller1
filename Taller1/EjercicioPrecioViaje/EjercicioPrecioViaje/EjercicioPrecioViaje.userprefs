@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E8A2EF04-4D0A-4F01-98FB-FF56D86F6826}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioPrecioViaje/Program.cs">
+    <Files>
+      <File FileName="EjercicioPrecioViaje/Program.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.EjercicioPrecioViaje PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

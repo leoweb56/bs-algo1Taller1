@@ -1,0 +1,4 @@
+/Users/leonardodantoni/Documents/FacuBS/Code/bs-algo1Taller1/Taller1/EjercicioPrecioViaje/EjercicioPrecioViaje/EjercicioPrecioViaje/bin/Debug/EjercicioPrecioViaje.exe
+/Users/leonardodantoni/Documents/FacuBS/Code/bs-algo1Taller1/Taller1/EjercicioPrecioViaje/EjercicioPrecioViaje/EjercicioPrecioViaje/bin/Debug/EjercicioPrecioViaje.exe.mdb
+/Users/leonardodantoni/Documents/FacuBS/Code/bs-algo1Taller1/Taller1/EjercicioPrecioViaje/EjercicioPrecioViaje/EjercicioPrecioViaje/obj/x86/Debug/EjercicioPrecioViaje.exe
+/Users/leonardodantoni/Documents/FacuBS/Code/bs-algo1Taller1/Taller1/EjercicioPrecioViaje/EjercicioPrecioViaje/EjercicioPrecioViaje/obj/x86/Debug/EjercicioPrecioViaje.exe.mdb
